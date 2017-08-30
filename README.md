@@ -46,7 +46,7 @@ On a lovely Friday night, I decided to spend whole day finding apps that would l
 
 I have organized my home screen with only 2 screens which means 1st one is the most important apps screen filled with Apps I daily use and the second screen is with Extras and apps that are required once in a month but I don't want to delete these just to have to install it later (side note, if you have 16 GB of storage it's recommended to not install the second screen ones).
 
-Screenshot: 
+### Screenshots: 
  ![iPhone Screenshot](http://oi63.tinypic.com/ohisev.jpg)
 
 
