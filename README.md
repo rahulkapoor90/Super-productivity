@@ -60,27 +60,27 @@ The **'Sift'** folder has the unwanted or used once in a month apps.
 
 Now let's highlight the **important apps**:
 
-- Pocketbook (Free) - Since I currently live in Australia, Pocketbook is the app I use to automatically manage the bank account transactions so it highlights where I spend the most weekly or on monthly basis. If you can't use it in your country I recommended finding similar ones that have some kind of automation in it.
+- [Pocketbook](https://getpocketbook.com/) (Free) - Since I currently live in Australia, Pocketbook is the app I use to automatically manage the bank account transactions so it highlights where I spend the most weekly or on monthly basis. If you can't use it in your country I recommended finding similar ones that have some kind of automation in it.
 
-- Habitica (Free) - You don't know how much difficult making new habits is. With habitica one can easily set up new habits to be made and after 30 days you will get used it. Highly recommended after I removed it a lot of times because I didn't want to use it but it works perfectly and I finally got used to it.
+- [Habitica](https://habitica.com) (Free) - You don't know how much difficult making new habits is. With habitica one can easily set up new habits to be made and after 30 days you will get used it. Highly recommended after I removed it a lot of times because I didn't want to use it but it works perfectly and I finally got used to it.
 
-- Google Calender (Free) - This is the only calendar app you need. Add all of your repetitive daily tasks and it will remind even when you forgot about it. I did add a widget for it so now I easily just swift right and see my next event.
+- [Google Calender](https://calendar.google.com/calendar) (Free) - This is the only calendar app you need. Add all of your repetitive daily tasks and it will remind even when you forgot about it. I did add a widget for it so now I easily just swift right and see my next event.
 
-- News (Apple News App & Medium) - Since I don't have much time to read news I use Apple news to quickly glance what's happening and then have a look at Medium to read some good insightful stories like this (j/k).
+- News ([Apple News](https://www.apple.com/news/) App & [Medium](https://medium.com/)) - Since I don't have much time to read news I use Apple news to quickly glance what's happening and then have a look at Medium to read some good insightful stories like this (j/k).
 
-- Automation (For automation to tasks I use IFTTT & Airtable) - I did setup a number of tasks on IFTTT but a lot of them are using Airtable to create a database of what I do on Social Media. For e.g. Any new photo liked or follower I have on Instagram, Twitter IFTTT automatically adds to my Airtable database. (Don't know how much useful this particular task is but I still have to figure this out correctly).
+- Automation (For automation to tasks I use [IFTTT](https://ifttt.com/) & [Airtable](https://airtable.com/)) - I did setup a number of tasks on IFTTT but a lot of them are using Airtable to create a database of what I do on Social Media. For e.g. Any new photo liked or follower I have on Instagram, Twitter IFTTT automatically adds to my Airtable database. (Don't know how much useful this particular task is but I still have to figure this out correctly).
 
 - Safari (Web Browser)  - For general purpose browsing also I don't trust the other apps (like Google, Firefox). Safari just works perfectly on iPhone.
 
-- Music (Spotify & SoundCloud) - I have a number of study playlists in Spotify that helps me concentrate on important tasks and Few more over at Soundcloud. I rarely listen to top charts so there's that as well.
+- Music ([Spotify](https://www.spotify.com) & [SoundCloud](https://soundcloud.com/)) - I have a number of study playlists in Spotify that helps me concentrate on important tasks and Few more over at Soundcloud. I rarely listen to top charts so there's that as well.
 
-- Task Management (Trello & Todoist) - It's highly important if you want to be productive in life that you use good task-management apps. Though one can set tasks in Habitica as well but I use a particular app only for what it was made initially. So, Trello is what use for my projects and I divide into a number of tasks. Todoist is when I want to quickly jot down important dates when In lecture or a meeting.
+- Task Management ([Trello](https://trello.com/) & [Todoist](https://en.todoist.com/)) - It's highly important if you want to be productive in life that you use good task-management apps. Though one can set tasks in Habitica as well but I use a particular app only for what it was made initially. So, Trello is what use for my projects and I divide into a number of tasks. Todoist is when I want to quickly jot down important dates when In lecture or a meeting.
 
 All the other apps are not that important for being productive so let's move on.
 
 ### Websites:
 
-- [Reddit](https://www.reddit.com) - Yes, reddit can be a productivity warehouse if you use it correctly. Create a new account and subscribe to all the important subreddits over here. https://www.reddit.com/r/java/comments/243njx/what_subreddits_should_a_software_developer/
+- [Reddit](https://www.reddit.com) - Yes, reddit can be a productivity warehouse if you use it correctly. Create a new account and subscribe to all the important subreddits over [here](https://www.reddit.com/r/java/comments/243njx/what_subreddits_should_a_software_developer/).
 
 - [Product Hunt](https://www.producthunt.com/) - If you have been actively trying to find a new product then you probably know about Product Hunt. It is a great resource where developers/users find new products and you can follow different topics as well. I did make a Chrome extension to get all the PH stats on Twitter easily So here's the (Shameless plug).
 
