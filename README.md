@@ -99,6 +99,11 @@ All the other apps are not that important for being productive so let's move on.
 
 - [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip?hl=en) - Toby is what I use instead of native Google Chrome bookmarks storage to organize tools/websites I need quickly. Use this tool, you'll love it. Attaching a quick screenshot below so you have an Idea of how I use it.
 
+- [LastPass](https://www.lastpass.com/) - Simple solution for all your accounts which it stores with strong passwords. Highly Recommended.
+
+- [Cold Turkey](https://getcoldturkey.com/) - No other blocking tool works as great as Cold Turkey. Unlike Stay Focusd it doesn't even let you uninstall the app if blocking is active. Crazy stuff.
+
+
 ![Toby Screenshot](http://oi68.tinypic.com/2lt6mhf.jpg)
 
 ### Dumb Tools (Some may want to use it):
