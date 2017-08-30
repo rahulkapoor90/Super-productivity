@@ -78,8 +78,20 @@ Now let's highlight the **important apps**:
 
 All the other apps are not that important for being productive so let's move on.
 
+### Websites:
 
+- [Reddit](https://www.reddit.com) - Yes, reddit can be a productivity warehouse if you use it correctly. Create a new account and subscribe to all the important subreddits over here. https://www.reddit.com/r/java/comments/243njx/what_subreddits_should_a_software_developer/
 
+- [Product Hunt](https://www.producthunt.com/) - If you have been actively trying to find a new product then you probably know about Product Hunt. It is a great resource where developers/users find new products and you can follow different topics as well. I did make a Chrome extension to get all the PH stats on Twitter easily So here's the (Shameless plug).
+
+- [Inbox Zero](http://www.43folders.com/izero) - Inbox Zero is a rigorous approach to keep your inbox empty at all times. For more details and how to get started watch Thomas Frank's video on it.
+
+- [Bullet Journal](http://bulletjournal.com/) - At times, I found that its sometimes impossible to type your notes on your Laptop, tablet etc. so I now use this approach to quickly highlight what I need to do and make notes as well. Highly Recommended.
+
+### File Management:
+
+- [Google Drive](https://www.google.com/drive/) - Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution. Use this for general purpose.
+- [Dropbox](https://www.dropbox.com/login) - Cloud storage solution deeply integrated in the Google ecosystem. I use this for my work-related task.
 
 ### Dumb Tools (Some may want to use it):
 
