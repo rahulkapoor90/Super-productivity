@@ -88,10 +88,18 @@ All the other apps are not that important for being productive so let's move on.
 
 - [Bullet Journal](http://bulletjournal.com/) - At times, I found that its sometimes impossible to type your notes on your Laptop, tablet etc. so I now use this approach to quickly highlight what I need to do and make notes as well. Highly Recommended.
 
+- [SmallPDF](https://smallpdf.com/) - One stop destination for all your file conversion needs.
+
 ### File Management:
 
 - [Google Drive](https://www.google.com/drive/) - Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution. Use this for general purpose.
 - [Dropbox](https://www.dropbox.com/login) - Cloud storage solution deeply integrated in the Google ecosystem. I use this for my work-related task.
+
+### Tools:
+
+- [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip?hl=en) - Toby is what I use instead of native Google Chrome bookmarks storage to organize tools/websites I need quickly. Use this tool, you'll love it. Attaching a quick screenshot below so you have an Idea of how I use it.
+
+![Toby Screenshot](http://oi68.tinypic.com/2lt6mhf.jpg)
 
 ### Dumb Tools (Some may want to use it):
 
