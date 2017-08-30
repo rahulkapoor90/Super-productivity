@@ -28,6 +28,8 @@ So, here's what I'll do:
 
 - [Casey Neistat](https://www.youtube.com/user/caseyneistat) - Casey is a really productivity loving guy on YouTube when you really get to know how he lives and manages daily life though I usually watch him to get inspired or motivated. Crazy stuff. 
 
+- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ) - Really informational coding channel that explains everything in detail.
+
 ## Your smartphone (iOS or Android) :
 
 Unless you are living in a cave you probably have a smartphone filled with a ton of Apps or only few that you don't use much but one thing is common which is that it's probably not managed/organized properly and if you want to be productive! Guess what, we will have to organize it first.
