@@ -105,6 +105,12 @@ All the other apps are not that important for being productive so let's move on.
 
 - [Cold Turkey](https://getcoldturkey.com/) - No other blocking tool works as great as Cold Turkey. Unlike Stay Focusd it doesn't even let you uninstall the app if blocking is active. Crazy stuff.
 
+## Notes
+
+For being a productive guy, I wanted a medium that is free and provides a seamless backup for all my devices. Here's the tool that won.
+
+- [Onenote](https://www.onenote.com/) - I know! Mircrosoft's Onenote isn't used as much as other note taking apps but there was literally no one else that made love again writing notes on laptop, tablet or phone. The design is so much better and with the notebook features the whole experience is amazing.
+
 
 ![Toby Screenshot](http://oi68.tinypic.com/2lt6mhf.jpg)
 
