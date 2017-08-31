@@ -92,6 +92,8 @@ All the other apps are not that important for being productive so let's move on.
 
 - [SmallPDF](https://smallpdf.com/) - One stop destination for all your file conversion needs.
 
+- [Noisli](https://www.noisli.com/) - Improve Focus and Boost productivity with background noise. Really helps when I want to complete a task/assignment quickly.
+
 ### File Management:
 
 - [Google Drive](https://www.google.com/drive/) - Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution. Use this for general purpose.
