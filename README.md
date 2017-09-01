@@ -1,6 +1,6 @@
 # Super-productivity [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A definite guide to attain maximum productivity. Suitable for developers/students. (Work in Progress).
+A definite guide to attain maximum productivity. Suitable for developers/students. **(Work in Progress)**.
 > I recommend watching this repository, We will be adding more tools every week!
 
 This repo is a collection of applications and tools for any users/developers that would help them to attain maximum productivity in their daily life. 
