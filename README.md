@@ -1,5 +1,6 @@
 # Super-productivity
-A definite guide to attain maximum productivity. Suitable for developers/students.
+A definite guide to attain maximum productivity. Suitable for developers/students. (Work in Progress).
+> I recommend watch this repository, We will be adding more tools every week!
 
 This repo is a collection of applications and tools for any users/developers that would help them to attain maximum productivity in their daily life. 
 Feel free to contribute / star / fork / pull request . Any recommendations and suggestions are welcomed.
