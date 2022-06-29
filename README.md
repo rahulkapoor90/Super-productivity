@@ -109,6 +109,9 @@ All the other apps are not that important for being productive so let's move on.
 
 - [Cold Turkey](https://getcoldturkey.com/) - No other blocking tool works as great as Cold Turkey. Unlike Stay Focusd it doesn't even let you uninstall the app if blocking is active. Crazy stuff.
 
+- [Taskade](https://www.taskade.com/) - Taskade is a real-time organization and collaboration tool. Create simple to-do lists, mind maps, and notes,  in one unified workspace.
+
+
 ## Notes
 
 For being a productive guy, I wanted a medium that is free and provides a seamless backup for all my devices. Here's the tool that won.
